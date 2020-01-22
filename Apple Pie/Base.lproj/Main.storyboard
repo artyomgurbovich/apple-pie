@@ -430,7 +430,7 @@
                                                         <rect key="frame" x="100.5" y="0.0" width="42" height="42"/>
                                                         <color key="backgroundColor" red="0.80363355889999999" green="0.21564764619999999" blue="0.1642946425" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                         <fontDescription key="fontDescription" type="system" weight="medium" pointSize="26"/>
-                                                        <state key="normal" title="V">
+                                                        <state key="normal" title="W">
                                                             <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                         </state>
                                                         <userDefinedRuntimeAttributes>
@@ -446,7 +446,7 @@
                                                         <rect key="frame" x="150.5" y="0.0" width="42" height="42"/>
                                                         <color key="backgroundColor" red="0.80363355889999999" green="0.21564764619999999" blue="0.1642946425" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                         <fontDescription key="fontDescription" type="system" weight="medium" pointSize="26"/>
-                                                        <state key="normal" title="W">
+                                                        <state key="normal" title="X">
                                                             <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                         </state>
                                                         <userDefinedRuntimeAttributes>
@@ -462,7 +462,7 @@
                                                         <rect key="frame" x="200.5" y="0.0" width="42" height="42"/>
                                                         <color key="backgroundColor" red="0.80363355889999999" green="0.21564764619999999" blue="0.1642946425" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                         <fontDescription key="fontDescription" type="system" weight="medium" pointSize="26"/>
-                                                        <state key="normal" title="X">
+                                                        <state key="normal" title="Y">
                                                             <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                         </state>
                                                         <userDefinedRuntimeAttributes>
@@ -478,7 +478,7 @@
                                                         <rect key="frame" x="250.5" y="0.0" width="42.5" height="42"/>
                                                         <color key="backgroundColor" red="0.80363355889999999" green="0.21564764619999999" blue="0.1642946425" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                         <fontDescription key="fontDescription" type="system" weight="medium" pointSize="26"/>
-                                                        <state key="normal" title="Y">
+                                                        <state key="normal" title="Z">
                                                             <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                         </state>
                                                         <userDefinedRuntimeAttributes>
